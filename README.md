@@ -174,6 +174,6 @@ if __name__ == "__main__":
 
 ## 4. Reflexão sobre Defesa e Prevenção:
 Entender como os códigos acima funcionam nos permite mapear as camadas de defesa necessárias:
-**- Ameaça:** 'Ransomware', 'Keylogger', 'Execução', 'Vulnerabilidade'.
-**- Medida de Prevenção:** 'Backups Offline', 'Endpoint Detection (EDR)', 'Sandboxing', 'Conscientização'.
-**- Como funciona:** 'Se os dados forem criptografados, você restaura a versão "fria" (desconectada da rede)'. 'Monitora processos que tentam "ouvir" o teclado sem autorização'. 'Executa arquivos suspeitos em um ambiente isolado para observar o comportamento antes de permitir no sistema real'. 'Treinar o usuário para não clicar em anexos .exe ou links suspeitos (Phishing)'.
+- Ameaça: 'Ransomware', 'Keylogger', 'Execução', 'Vulnerabilidade'.
+- Medida de Prevenção: 'Backups Offline', 'Endpoint Detection (EDR)', 'Sandboxing', 'Conscientização'.
+- Como funciona: 'Se os dados forem criptografados, você restaura a versão "fria" (desconectada da rede)'. 'Monitora processos que tentam "ouvir" o teclado sem autorização'. 'Executa arquivos suspeitos em um ambiente isolado para observar o comportamento antes de permitir no sistema real'. 'Treinar o usuário para não clicar em anexos .exe ou links suspeitos (Phishing)'.
