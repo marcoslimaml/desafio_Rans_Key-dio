@@ -5,7 +5,7 @@ AVISO LEGAL E USO ÉTICO
 --------------------------------------------------------------------------------
 Estes scripts foram desenvolvidos estritamente para fins EDUCACIONAIS e de PESQUISA em segurança cibernética. O objetivo é demonstrar o funcionamento técnico de ameaças para auxiliar na criação de medidas de defesa e conscientização.
 O autor não se responsabiliza pelo uso indevido, ilegal ou danos causados por estes códigos. O uso destes softwares contra sistemas sem autorização prévia e expressa é ILEGAL e punível por lei.
-Sempre execute este código em ambientes isolados (Máquinas Virtuais ou Sandboxes).
+Sempre execute estes códigos em ambientes isolados (Máquinas Virtuais ou Sandboxes).
 --------------------------------------------------------------------------------
 ```
 
